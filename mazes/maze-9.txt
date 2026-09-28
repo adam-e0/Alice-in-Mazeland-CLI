@@ -1,0 +1,43 @@
+7 6 :: 6 1 :: 2 5
+1 1 :: E :: N
+1 2 :: SW S :: D
+1 3 :: E SW :: N
+1 4 :: X :: D
+1 5 :: E W :: D
+1 6 :: S W SW :: D
+2 1 :: S :: D
+2 2 :: N S SW NW :: D
+2 3 :: S E NW :: D
+2 4 :: N E S NE SW NW :: I
+2 5 :: X :: N
+2 6 :: S :: N
+3 1 :: E N :: I
+3 2 :: W N NE :: N
+3 3 :: X :: N
+3 4 :: E S SW :: D
+3 5 :: E S W SE NW :: N
+3 6 :: N S SW :: I
+4 1 :: S :: N
+4 2 :: W NW E NE SE SW :: N
+4 3 :: W NE NW N :: D
+4 4 :: SE :: N
+4 5 :: SW SE :: N
+4 6 :: S W NW :: D
+5 1 :: N E S :: N
+5 2 :: S N SE SW :: I
+5 3 :: N :: D
+5 4 :: SE N NW W :: D
+5 5 :: E S SW :: I
+5 6 :: W NW :: D
+6 1 :: N E NE :: N
+6 2 :: E SE SW NW :: N
+6 3 :: N E S W SE NW :: I
+6 4 :: N E W SE NW :: N
+6 5 :: NW E :: I
+6 6 :: S W :: D
+7 1 :: N E :: I
+7 2 :: N E W :: D
+7 3 :: E :: I
+7 4 :: X :: I
+7 5 :: N E W NW :: D
+7 6 :: N W :: D
